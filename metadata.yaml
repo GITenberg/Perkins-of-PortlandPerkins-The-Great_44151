@@ -1,0 +1,28 @@
+_repo: Perkins-of-PortlandPerkins-The-Great_44151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
+description: ''
+gutenberg_issued: '2013-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Advertising -- Fiction'
+title: 'Perkins of Portland: Perkins The Great'
+url: http://www.gutenberg.org/ebooks/44151
